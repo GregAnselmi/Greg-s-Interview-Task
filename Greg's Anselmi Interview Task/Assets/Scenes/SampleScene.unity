@@ -3850,6 +3850,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ChestObject
       objectReference: {fileID: 0}
+    - target: {fileID: 448418265210129814, guid: 31b1a72ca067dae4380d56bedac37d2c, type: 3}
+      propertyPath: m_EdgeRadius
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 448418265210129815, guid: 31b1a72ca067dae4380d56bedac37d2c, type: 3}
       propertyPath: m_RootOrder
       value: 6
